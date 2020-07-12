@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**TobiasG-DE/TobiasG-DE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### About me
 Welcome to my Github Profile.
 
 I'm a self-tought Developer, using mostly Java and PHP to develop a wide variety of Software.
@@ -21,4 +17,3 @@ Small details about me:
 - I'm 17 years old
 - Basketball Player
 - Playing the Piano
--->
