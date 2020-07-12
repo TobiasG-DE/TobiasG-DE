@@ -10,7 +10,7 @@ Currently working alot with Containerized Applications based on Docker and Docke
 I'm currently not available for hiring for small or medium size projects, due to me needing to manage my time.
 
 #### I'm working on:
-[Waterdog - High Performance Minecraft: Bedrock Edition Proxying Software](https://github.com/yesdog/Waterdog)
+[Waterdog - High Performance Minecraft: Bedrock Edition Proxying Software](https://github.com/yesdog/Waterdog) <br/>
 [NetherGames - One of the leading Minecraft: Bedrock Edition Server Networks](https://ngmc.co)
 
 #### Small details about me:
